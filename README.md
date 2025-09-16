@@ -5,7 +5,7 @@ Hi 👋 My name is Wagner Samuel
 * ✉️  You can contact me at [wagnersamuel908@gmail.com](mailto:wagnersamuel908@gmail.com)
 * 🎓 I am currently in the 3rd semester of Computer Science college
 * 🧠  I'm learning I have been dedicatedly learning Java for 8 months now, seeking to improve my knowledge in object-oriented programming and robust application development.
-* 📕 I am currently studying mixed with Java: Design Patterns, Graphs, Spring Boot, SOLID principles, CRUD, cohesion and coupling for now
+* 📕 I am currently studying mixed with Java: Design Patterns, Graphs, Spring Boot, SOLID principles, CRUD, cohesion, coupling and Data structure for now
 
 ### Skills
 
